@@ -1,7 +1,7 @@
 ## Seja Bem vindo ao meu Github 🍪
 
 - 🔭 Atualmente trabalho como professor de informática no instituto de ensino WorkTime
-- 🌱 Atualmente estou aprendendo um pouco de React.js
+- 🌱 Estou aprendendo um pouco de React.js
 - 💙 Amo Front-End
 
 <div style="display: inline_block"><br>
