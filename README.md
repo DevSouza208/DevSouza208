@@ -1,6 +1,6 @@
 ## Seja Bem vindo ao meu Github 🍪
 
-- 🔭 Atualmente trabalho como professor de informática no instituto de ensino WorkTime
+- 🔭 Atualmente trabalho como professor de Tecnologia na Codifica Edu
 - 🌱 Estou aprendendo um pouco de React.js
 - 💙 Amo Front-End
 
