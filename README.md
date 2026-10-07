@@ -18,6 +18,9 @@ Construindo experiências para **educação, web, games e entretenimento**.
 
 🎮 Curto especialmente games, emulação, multiplayer e projetos experimentais.
 
+> Gosto de aprender construindo.  
+> Se tive uma ideia e pensei _“será que dá pra fazer?”_, provavelmente já existe um repositório tentando responder.
+
 ---
 
 ## 🚀 Projetos
